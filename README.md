@@ -1,5 +1,6 @@
 # «ЭтапПро» — Канбан производственных проектов мебельной мастерской «Дубрава»
 
+![Скриншот первой страницы приложения](images/2026-10-09_12-52-21.png)
 ![React](https://img.shields.io/badge/React-19-blue?logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue?logo=typescript)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4.x-38bdf8?logo=tailwindcss)
